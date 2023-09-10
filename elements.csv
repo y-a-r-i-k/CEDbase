@@ -1,0 +1,110 @@
+Item name,symbol,serial number,period,group,subgroup,atomic weight,Outer layer electron configuration,element type,Latin name,Electronegativity,Year of opening,scientist,melting temperature,Boiling point
+hydrogen,N,1,1,1,A,1.00794,1s1,s,Hydrogenium,2.1,1766,G. Cavendish,-259.1,-252.61
+helium,He,2,1,8,A,4.002602,1s2,s,Helium,5.5,1868,N. Lockyer,-271,-269
+lithium,Li,3,2,1,A,6.941,2s1,s,Lithium,0.95,1817,I. Arfwedson,180.54,1340
+berylium,Be,4,2,2,A,9.0122,2s2,s,Beryllium,1.5,1798,L. Vauquelin,1287,2471
+boron,B,5,2,3,A,10.811,2s2 2p1,p,Borum,2,1808,J. Gay-Lussac,2074,3658
+carbon,C,6,2,4,A,12.011,2s2 2p2,p,Carboneum,2.5,,Known since antiquity,,
+nitrogen,N,7,2,5,A,14.0067,2s2 2p3,p,Nitrogenium,3.05,1772,D. Rutherford,-210,-195.8
+oxygen,O,8,2,6,A,15.9994,2s2 2p4,p,Oxigenium,3.5,1774,K. Scheele,-218.7,-183
+fluorine,F,9,2,7,A,18.9984,2s2 2p5,p,Fluorum,4,1771,K. Scheele,-219.6,-188.2
+neon,Ne,10,2,8,A,20.179,2s2 2p6,p,Neon,4.84,1898,W. Ramsay,-248.6,-246
+sodium,Na,11,3,1,A,22.98977,3s1,s,Natrium,1,1807,G. Davy,98,883.15
+magnesium,Mg,12,3,2,A,24.305,3s2,s,Magnesium,1.2,1808,G. Davy,650,1105
+aluminium,Al,13,3,3,A,26.98154,3s2 3p1,p,Aluminium,1.5,1825,H. ?rsted,660,2452
+silicon,Si,14,3,4,A,28.0855,3s2 3p2,p,Silicium,1.8,1824,J. Berzellius,1415,3249
+phosphorus,P,15,3,5,A,30.97376,3s2 3p3,p,Phosphorus,2.1,1669,G. Brandt,44.14,257
+sulfur,S,16,3,6,A,32.066,3s2 3p4,p,Sulfur,2.58,,Known since antiquity,112.8,444.6
+chlorine,Cl,17,3,7,A,35.453,3s2 3p5,p,Chlorum,3,1774,K. Scheele,-101,-34.1
+argon,Ar,18,3,8,A,39.948,3s2 3p6,p,Argon,3.2,1894,D. Rayleigh,-189.3,-186
+potassium,K,19,4,1,A,39.0983,4s1,s,Kalium,0.8,1807,G. Davy,63.51,761
+calcium,Ca,20,4,2,A,40.078,4s2,s,Calcium,1,1808,G. Davy,842,1495
+scandium,Sc,21,4,3,B,44.95591,3d1 4s2,d,Scandium,1.3,1879,L. Nilsson,1541,2837
+titanium,Ti,22,4,4,B,47.88,3d2 4s2,d,Titanium,1.5,1795,M. Klaproth,1671,3260
+vanadium,V,23,4,5,B,50.9415,3d3 4s2,d,Vanadium,1.6,1830,N. Sefstr?m,1920,3400
+chromium,Cr,24,4,6,B,51.9961,3d5 4s1,d,Chromium,1.6,1797,L. Vauquelin,1890,2680
+manganese,Mn,25,4,7,B,54.938,3d5 4s2,d,Manganum,2,1774,K. Scheele,1244,2080
+iron,Fe,26,4,8,B,55.847,3d6 4s2,d,Ferrum,1.8,,Known since antiquity,1535,2750
+cobalt,Co,27,4,8,B,58.9332,3d7 4s2,d,Cobaltum,1.9,1735,G. Brandt,1494,2960
+nickel,Ni,28,4,8,B,58.69,3d8 4s2,d,Niccolum,1.8,1751,A. Cronsted,1455,2900
+copper,Cu,29,4,1,B,63.546,3d10 4s1,d,Cuprum,1.9,,Known since antiquity,1083.4,2567
+zinc,Zn,30,4,2,B,65.37,3d10 4s2,d,Zincum,1.6,,Known since antiquity,419.5,906
+gallium,Ga,31,4,3,A,69.72,4s2 4p1,p,Gallium,1.6,1875,P. Lecoq de Boisbaudran,29.75,2403
+germanium,Ge,32,4,4,A,72.59,4s2 4p2,p,Germanium,1.8,1886,K. Vankler,938.25,2850
+arsenic,As,33,4,5,A,74.9216,4s2 4p3,p,Arsenicum,2.1,,Known since antiquity,817,615
+selenium,Se,34,4,6,A,78.96,4s2 4p3,p,Selenium,2.4,1817,J. Berzellius,221,685.3
+bromine,Br,35,4,7,A,79.904,4s2 4p4,p,Bromum,2.8,1826,A. Balar,-7.25,59.2
+krypton,Kr,36,4,8,A,83.8,4s2 4p5,p,Krypton,3,1898,W. Ramsay,-157.1,-153.35
+rubidium,Rb,37,5,1,A,85.47,4s2 4p6,s,Rubidium,0.8,1861,R. Bunsen,39.32,687.2
+strontium,Sr,38,5,2,A,87.62,5s1,s,Strontium,1,1790,A. Crawford,768,1390
+yttrium,Y,39,5,3,B,88.905,5s2,d,Yttrium,1.3,1794,Y. Gadolin,1528,3320
+zirconium,Zr,40,5,4,B,91.22,4d1 5s2,d,Zirconium,1.4,1789,M. Klaproth,1855,4340
+niobium,Nb,41,5,5,B,92.906,4d2 5s2,d,Niobium,1.6,1801,C. Hatchet,2477,4760
+molybdenum,Mo,42,5,6,B,95.94,4d4 5s1,d,Molibdaehum,1.8,1778,K. Scheele,2623,4800
+technetium,Tc,43,5,7,B,99,4d5 5s2,d,Technetium,1.36,1937,C. Perrier,2200,4600
+ruthenium,Ru,44,5,8,B,101.07,4d7 5s1,d,Ruthenium,1.42,1844,K. K. Klaus,2334,4077
+rhodium,Rh,45,5,8,B,102.905,4d8 5s1,d,Rhodium,2.28,1804,W. Wollaston,1963,3727
+palladium,Pd,46,5,8,B,106.4,4d10 5s0,d,Palladium,2.2,1803,W. Wollaston,1554,2940
+silver,Ag,47,5,1,B,107.868,4d10 5s1,d,Argentum,1.93,,Known since antiquity,961.93,2167
+cadmium,Cd,48,5,2,B,112.4,4d10 5s2,d,Cadmium,1.7,1817,F. Strohmeyer,321.1,766.5
+indium,In,49,5,3,A,114.82,5s2 5p1,p,Indium,1.8,1863,F. Reich,156.78,2024
+tin,Sn,50,5,4,A,118.69,5s2 5p2,p,Stannum,1.8,,Known since antiquity,231.9,2600
+antimony,Sb,51,5,5,A,121.75,5s2 5p3,p,Stibium,1.9,,Known since antiquity,630.5,1634
+tellurium,Te,52,5,6,A,127.6,5s2 5p4,p,Tellurium,2.1,1782,F. M?ller von Reichenstein,449.8,990
+iodine,I,53,5,7,A,126.9044,5s2 5p5,p,Iodum,2.5,1811,B. Courtois,113.5,184.35
+xenon,Xe,54,5,8,A,131.3,5s2 5p6,p,Xenon,2.6,1898,W. Ramsay,-111.5,-108
+cesium,Cs,55,6,1,A,132.905,6s1,s,Cesium,0.7,1860,R. Bunsen,28.4,669.2
+barium,Ba,56,6,2,A,137.34,6s2,s,Barium,0.9,1774,I. Gan,727,1637
+lanthanum,La,57,6,3,B,138.81,5d1 6s2,d,Lanthanum,1.08,1839,K. Mosander,920,3450
+cerium,Ce,58,,,,140.12,4f1 5d1 6s2,fë,Cerium,1.08,1803,J. Berzellius,804,3450
+praseodymium,Pr,59,,,,140.907,4f3 5d0 6s2,fë,Praseodymium,1.07,1885,K. Auer von Welsbach,931,3510
+neodymium,Nd,60,,,,144.24,4f4 5d0 6s2,fë,Neodimium,1.07,1885,K. Auer von Welsbach,1024,3080
+promethium,Pm,61,,,,145,4f5 5d0 6s2,fë,Promethium,1.07,1945,D. Marinski,1170,3000
+samarium,Sm,62,,,,150.35,4f6 5d0 6s2,fë,Samarium,1.17,1879,P. Lecoq de Boisbaudran,1072,1800
+europium,Eu,63,,,,151.96,4f7 5d0 6s2,fë,Europium,1.01,1901,E. Demarse,826,1440
+gadolinium,Gd,64,,,,157.25,4f7 5d1 6s2,fë,Gadolinium,1.11,1880,J. Marignac,1312,3272
+terbium,Tb,65,,,,158.924,4f9 5d0 6s2,fë,Terbium,1.1,1843,K. Mosander,1356,3073
+dysprosium,Dy,66,,,,162.5,4f10 5d0 6s2,fë,Dysprosium,1.1,1886,P. Lecoq de Boisbaudran,1409,2587
+holmium,Ho,67,,,,164.93,4f11 5d0 6s2,fë,Holmium,1.1,1879,P. Kleve,1470,2707
+erbium,Er,68,,,,167.26,4f12 5d0 6s2,fë,Erbium,1.11,1843,K. Mosander,1522,2857
+thulium,Tm,69,,,,168.934,4f13 5d0 6s2,fë,Thulium,1.11,1879,P. Kleve,1545,1947
+ytterbium,Yb,70,,,,173.04,4f14 5d0 6s2,fë,Ytterbium,1.06,1878,J. Marignac,824,1211
+lutetium,Lu,71,,,,174.97,4f14 5d1 6s2,fë,Lutetium,1.14,1907,J. Urbain,1660,3410
+hafnium,Hf,72,6,4,B,178.49,4f14 5d2 6s2,d,Hafnium,1.3,1923,D. Koster,2230,5400
+tantalum,Ta,73,6,5,B,180.948,4f14 5d3 6s2,d,Tantalum,1.5,1802,A. Ekeberg,3014,5500
+tungsten,W,74,6,6,B,183.85,4f14 5d4 6s2,d,Wolframium,1.7,1781,K. Scheele,3380,6000
+rhenium,Re,75,6,7,B,186.2,4f14 5d5 6s2,d,Rhenium,1.9,1925,V. Noddack,3180,5600
+osmium,Os,76,6,8,B,190.2,4f14 5d6 6s2,d,Osmium,2.1,1804,S. Tennant,3027,5027
+iridium,Ir,77,6,8,B,192.2,4f14 5d7 6s2,d,Iridium,2.2,1804,S. Tennant,2447,4370
+platinum,Pt,78,6,8,B,195.09,4f14 5d9 6s2,d,Platinum,2.2,,Known since antiquity,1769,3800
+gold,Au,79,6,1,B,196.967,5d10 6s1,d,Aurum,2.4,,Known since antiquity,1064,2880
+mercury,Hg,80,6,2,B,200.59,5d10 6s2,d,Hydrargyrum,1.9,,Known since antiquity,-38.87,356.58
+thallium,Tl,81,6,3,A,204.37,6s2 6p1,p,Thallium,1.8,1861,W. Crookes,303,1475
+lead,Pb,82,6,4,A,207.19,6s2 6p2,p,Plumbum,1.55,,Known since antiquity,327.5,1751
+bismuth,Bi,83,6,5,A,208.98,6s2 6p3,p,Bismuthum,1.9,,Known since the Middle Ages,271.4,1564
+polonium,Po,84,6,6,A,210,6s2 6p4,p,Polonium,1.76,1898,M. and P. Curie,254,949
+astatine,At,85,6,7,A,210,6s2 6p5,p,Astatium,2.3,1940,D. Corson,244,309
+radon,Rn,86,6,8,A,222,6s2 6p6,p,Radon,2.06,1900,E. Dorn,-71,-61.8
+francium,Fr,87,7,1,A,223,7s1,s,Francium,0.7,1939,M. Perey,21,660
+radium,Ra,88,7,2,A,226,7s2,s,Radium,0.97,1898,J. B?mont,969,1507
+actinium,Ac,89,7,3,B,227,6d1 7s2,d,Actinium,1.1,1899,A. Debi?rn,1050,3300
+thorium,Th,90,,,,232.038,5f0 6d2 7s2,fà,Thorium,1.11,1828,J. Berzellius,1750,4200
+protactinium,Pa,91,,,,231,5f2 6d1 7s2,fà,Protactinium,1.14,1918,F. Soddy,1572,4487
+uranium,U,92,,,,238.03,5f3 6d1 7s2,fà,Uranium,1.22,1789,M. Klaproth,1135,4200
+neptunium,Np,93,,,,237,5f4 6d1 7s2,fà,Neptunium,1.22,1940,E. Macmillan,639,4082
+plutonium,Pu,94,,,,242,5f6 6d0 7s2,fà,Plutonium,1.2,1940,G. Seaborg,640,3352
+Americium,Am,95,,,,243,5f7 6d0 7s2,fà,Americium,1,1945,G. Seaborg,1173,2607
+curium,Cm,96,,,,247,5f7 6d1 7s2,fà,Curium,1.2,1944,G. Seaborg,1358,3110
+berkelium,Bk,97,,,,247,5f9 6d0 7s2,fà,Berkelium,1,1949,G. Seaborg,1050,2630
+californium,Cf,98,,,,249,5f10 6d0 7s2,fà,Californium,1.2,1950,G. Seaborg,900,1227
+Einsteinium,Es,99,,,,254,5f11 6d0 7s2,fà,Einsteinium,1.3,1952,G. Seaborg,860,
+fermium,Fm,100,,,,253,5f12 6d0 7s2,fà,Fermium,1.3,1952,G. Seaborg,,
+mendelevium,Md,101,,,,256,5f13 6d0 7s2,fà,Mendelevium,1.2,1955,G. Seaborg,,
+nobelium,No,102,,,,255,5f14 6d0 7s2,fà,Nobelium,,1963,G. N. Flerov,,
+lawrencium,Lr,103,,,,257,5f14 6d1 7s2,fà,Lawrencium,,1961,A. Ghiorso,,
+rutherfordium,Rf,104,7,4,B,261,5f14 6d2 7s2,d,Rutherfordium,,1964,G. N. Flerov,,
+dubnium,Db,105,7,5,B,262,5f14 6d3 7s2,d,Dubnium,,1964,V. A. Drouin,,
+seaborgium,Sg,106,7,6,B,263,5f14 6d4 7s2,d,Seaborgium,,1974,A. Ghiorso,,
+bohrium,Bh,107,7,7,B,262,5f14 6d5 7s2,d,Bohrium,,1981,G. M?nzenberg,,
+hassium,Hs,108,7,8,B,265,5f14 6d6 7s2,d,Nassium,,1984,G. M?nzenberg,,
+meitnerium,Mt,109,7,8,B,266,5f14 6d7 7s2,d,Meitnerium,,1987,G. M?nzenberg,,
